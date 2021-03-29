@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on React projects
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on web & mobile development
+- 📫 How to reach me: zhenyaromanov111@gmail.com
 <!--
 **zhenyaromanov/zhenyaromanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
